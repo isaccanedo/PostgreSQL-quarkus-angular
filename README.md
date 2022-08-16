@@ -1,5 +1,3 @@
-# shopping-list
-
 [Acces this demo version on Heroku and try it right now!](https://best-shopping-list.herokuapp.com/#/)
 - The application get dormant after some time without use, so the first access can take some extra time.
 
