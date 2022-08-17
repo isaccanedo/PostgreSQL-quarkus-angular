@@ -1,5 +1,5 @@
 [Acces this demo version on Heroku and try it right now!](https://best-shopping-list.herokuapp.com/#/)
-- The application get dormant after some time without use, so the first access can take some extra time.
+- O aplicativo fica inativo após algum tempo sem uso, então o primeiro acesso pode demorar um pouco mais.
 
 ![image](./docs/shopping-list.gif)
 
